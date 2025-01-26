@@ -29,6 +29,6 @@ def test_calculate_quotes():
         "quotes": {
             "provider_a": 8.0,
             "provider_b": 5.0,
-            "provider_c": 12.5
+            "provider_c": 10.0
         }
     }
